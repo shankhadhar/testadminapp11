@@ -1,0 +1,14 @@
+{
+  "appname": "testadminapp11",
+  "scope": "DevCenterImpersonate",
+  "clientid": "F8062627-20E4-4923-8B17-B81D9870818A",
+  "buyerid": "Vendor1",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
